@@ -3,4 +3,4 @@
 Machine Learning
 
 
-Cross Validation with K fold
+Cross Validation with K-fold
